@@ -1,0 +1,19 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.pleasant-background {
+  background-color: #f2f1e5; /* Light blue color for a pleasant atmosphere */
+  color: #333; /* Dark text color for better readability */
+  padding: 20px;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.pleasant-background h1 {
+  margin: 0;
+  font-size: 2em;
+  text-align: center;
+}

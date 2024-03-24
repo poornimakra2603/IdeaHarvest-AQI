@@ -1,0 +1,19 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.danger-background {
+  background-color: #ff4d4d; /* Red color indicating danger */
+  color: #fff; /* White text for better readability */
+  padding: 20px;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.danger-background h1 {
+  margin: 0;
+  font-size: 2em;
+  text-align: center;
+}
